@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/Rechteck/pom.xml" />
+        <option value="$PROJECT_DIR$/Wuerfel/pom.xml" />
       </list>
     </option>
   </component>

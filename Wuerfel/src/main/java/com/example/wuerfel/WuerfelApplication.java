@@ -1,4 +1,4 @@
-package com.example.rechteck;
+package com.example.wuerfel;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -7,10 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class RechteckApplication extends Application {
+public class WuerfelApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(RechteckApplication.class.getResource("Rechteck-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(WuerfelApplication.class.getResource("Wuerfel-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         stage.setTitle("Hello!");
         stage.setScene(scene);

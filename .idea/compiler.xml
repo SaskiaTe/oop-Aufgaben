@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Rechteck" />
         <module name="hello-world" />
+        <module name="Wuerfel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello-world" target="9" />
-      <module name="Rechteck" target="1.8" />
+      <module name="Rechteck" target="9" />
+      <module name="Wuerfel" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
