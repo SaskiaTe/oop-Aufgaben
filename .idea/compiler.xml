@@ -22,7 +22,7 @@
       <module name="Tanne" target="9" />
       <module name="Tannenbaum" target="1.8" />
       <module name="test" target="9" />
-      <module name="Warenkorb" target="1.8" />
+      <module name="Warenkorb" target="9" />
       <module name="Wuerfel" target="9" />
     </bytecodeTargetLevel>
   </component>
