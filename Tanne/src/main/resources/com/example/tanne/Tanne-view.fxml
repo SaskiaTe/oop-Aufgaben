@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="558.0" prefWidth="456.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tanne.TanneController">
+   <children>
+      <Button layoutX="269.0" layoutY="102.0" mnemonicParsing="false" onAction="#onZeichnenButtonClick" text="Tanne Zeichnen" />
+      <Label layoutX="39.0" layoutY="40.0" text="Stammbreite" />
+      <Label layoutX="41.0" layoutY="74.0" text="Stammhöhe" />
+      <Label layoutX="41.0" layoutY="106.0" text="Kronenhöhe" />
+      <TextField fx:id="Stammbreite" layoutX="128.0" layoutY="36.0" prefHeight="26.0" prefWidth="71.0" />
+      <TextField fx:id="Stammhoehe" layoutX="128.0" layoutY="70.0" prefHeight="26.0" prefWidth="71.0" />
+      <TextField fx:id="Kronenhoehe" layoutX="128.0" layoutY="102.0" prefHeight="26.0" prefWidth="71.0" />
+      <TextArea fx:id="Result" layoutX="39.0" layoutY="179.0" prefHeight="359.0" prefWidth="374.0" />
+      <Button layoutX="269.0" layoutY="28.0" mnemonicParsing="false" onAction="#onBeendenButtonClick" text="Beenden" />
+   </children>
+</AnchorPane>

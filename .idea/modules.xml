@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rechteck/Rechteck.iml" filepath="$PROJECT_DIR$/Rechteck/Rechteck.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReisedauerMond/ReisedauerMond.iml" filepath="$PROJECT_DIR$/ReisedauerMond/ReisedauerMond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tanne/Tanne.iml" filepath="$PROJECT_DIR$/Tanne/Tanne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/Tannenbaum.iml" filepath="$PROJECT_DIR$/demo/Tannenbaum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warenkorb/Warenkorb.iml" filepath="$PROJECT_DIR$/Warenkorb/Warenkorb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wuerfel/Wuerfel.iml" filepath="$PROJECT_DIR$/Wuerfel/Wuerfel.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-Aufgaben.iml" filepath="$PROJECT_DIR$/oop-Aufgaben.iml" />
