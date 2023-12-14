@@ -1,22 +1,36 @@
 package com.example.warenkorb;
-
 public class Product {
-    int Id;
-    String Name;
-    Double Price;
+    private int id;
+    private String name;
+    private double price;
 
 
-
-    public void setId(int id) {
+    @Override
+    public String toString(){
+        return this.getName();
     }
 
-    public void getId() {
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
-    public String getName() {
-        return Name;
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
     }
 }

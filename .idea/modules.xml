@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Auto/Auto.iml" filepath="$PROJECT_DIR$/Auto/Auto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rechteck/Rechteck.iml" filepath="$PROJECT_DIR$/Rechteck/Rechteck.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReisedauerMond/ReisedauerMond.iml" filepath="$PROJECT_DIR$/ReisedauerMond/ReisedauerMond.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tanne/Tanne.iml" filepath="$PROJECT_DIR$/Tanne/Tanne.iml" />
